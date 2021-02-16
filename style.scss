@@ -152,6 +152,10 @@ h2{
             font-weight:100;
             text-align:center;
             font-size:12px;
+            & .desc{
+                width:195px;
+                height:102px;
+            }
         }
         & ul{
             width:298px;
